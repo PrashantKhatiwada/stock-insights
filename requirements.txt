@@ -1,0 +1,13 @@
+yfinance==0.1.74
+pandas
+numpy
+requests
+plotly
+streamlit
+tensorflow
+ta
+textblob
+beautifulsoup4
+aiohttp
+python-dotenv
+sklearn
