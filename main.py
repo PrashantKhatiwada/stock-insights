@@ -99,7 +99,7 @@ def plot_stock(df, company_name, predicted_prices, predicted_dates):
 
 # Streamlit UI
 st.set_page_config(layout="wide", page_title="Stock Market Insights")
-st.title("📈 Advanced Stock Analysis & Prediction")
+st.title("📈 Stock Insights - Get Advanced Stock Analysis & Prediction")
 company_name = st.text_input("Enter Stock Ticker (e.g., AAPL, TSLA)")
 user_email = st.text_input("Enter your email for alerts")
 if st.button("Analyze"):
