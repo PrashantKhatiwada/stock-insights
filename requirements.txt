@@ -10,4 +10,4 @@ textblob
 beautifulsoup4
 aiohttp
 python-dotenv
-sklearn
+scikit-learn
